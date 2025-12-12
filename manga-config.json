@@ -1,0 +1,30 @@
+{
+  "type": "webtoon",
+  "title": "We Are Not Dating!!",
+  "alternativeTitle": "우리 안 사귀어!!",
+  "cover": "",
+  "description": "Sebuah karya baru dari author Webtoon Character Na Kang Lim 'Kenapa kamu terus tanya kalau kita pacaran? Kita cuma bergandengan tangan, kita nggak pacaran!!'",
+  "author": "Lee Kyung-Min",
+  "artist": "Song Joon-Hyuk",
+  "genre": [
+    "Shounen",
+    "Comedy",
+    "Drama",
+    "Romance",
+    "Slice of Life",
+    "School Life",
+    "Office Workers"
+  ],
+  "status": "HIATUS",
+  "endChapter": null,
+  "views": 0,
+  "links": {
+    "mangadex": "https://mangadex.org/title/edit/02b80fce-8fd0-46dc-a6e4-a65f701fde4a#metadata",
+    "raw": "https://comic.naver.com/webtoon/list?titleId=828670"
+  },
+  "repoOwner": "nurananto",
+  "repoName": "WearenotDating",
+  "imagePrefix": "Image",
+  "imageFormat": "webp",
+  "lockedChapters": []
+}
