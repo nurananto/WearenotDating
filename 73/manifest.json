@@ -3,7 +3,9 @@
   "upload_date": "2025-12-12 22:49:36",
   "total_pages": 2,
   "pages": [
-    "https://cdn.nuranantoscans.my.id/WearenotDating/73/Image01.webp",
-    "https://cdn.nuranantoscans.my.id/WearenotDating/73/Image02.webp"
-  ]
+    "594a182de085fa131ce7d284a8f765db:c06db43aedc159795eb96e935f9bac5d5b966a383e84fac5522bcab66c1eece18c8494639af65de321827398ac3d3765e825be19265c31e4be16b932818db09a",
+    "72213a289699ad2bdadf2143870fddec:74fa0b66b485f3bb2dc09f9156b86112dc18a4ee61dfd415c06de8054273dbd9d10f7425756299a223ad674b998bd5783d93d669644730dd2e18f6f0014af20f"
+  ],
+  "encrypted": true,
+  "encryption_version": "1.0"
 }

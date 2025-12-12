@@ -3,11 +3,13 @@
   "upload_date": "2025-12-12 22:49:36",
   "total_pages": 6,
   "pages": [
-    "https://cdn.nuranantoscans.my.id/WearenotDating/70/Image01.webp",
-    "https://cdn.nuranantoscans.my.id/WearenotDating/70/Image02.webp",
-    "https://cdn.nuranantoscans.my.id/WearenotDating/70/Image03.webp",
-    "https://cdn.nuranantoscans.my.id/WearenotDating/70/Image04.webp",
-    "https://cdn.nuranantoscans.my.id/WearenotDating/70/Image05.webp",
-    "https://cdn.nuranantoscans.my.id/WearenotDating/70/Image06.webp"
-  ]
+    "5cf3d7528dfacfb095627ff56d7aafc1:730042b0f0a11650f777e8a9f12da7c8c42b35a44932e7ff9fbffe67145191ddb51645c4485ba8b8dd8aaa8051725988630f1efe3d0218a9a4cd2313ee9c2a66",
+    "498c73d974e4b8c4434a9f08d9b0aa1f:73d76c15583adc380c28a3d71a2e9aeec2d6bd197d278b88bf4cb19a202065deb41fac785f6eba5ce4d5a7355c0343e3d7255b8245ffb2fc55a9e5caf5f14ced",
+    "c73b8bdf64bfd9b41f3b7974a0e8049a:a622f99e62e133acb29eb1ecb555969cb4e991304e077b4729ca45cb5111fec823d9e913ea3a02785d693381f2d38a197729fdfdd3c1a60eef385f32444185d9",
+    "89e6cd325fe903ca76cc5d48ce4cebc7:f820499eb4303d935f0aac01acca0fec5a34cf7c7e825075e03a6222a7abf25fe7e6114ac8a6191c9285ae97b0af3870d68689dfbe6671105a2afa460a0c6ae7",
+    "3179e2d454ba8f8a2849bbcb2cd7b534:cf13109ffb5a719c692640b339d0419df7ac3441d04718f9617e33263666ed38f447f1ed18d17f1a3b58bc8d877062e1194191c0d6d9815290c7c0374bf4e109",
+    "e291e98b87b2e64e881e118fd46767af:7493e1b550b2ae4bc2657358c7a601989e9fa14d4982e7aefefb3212791c96e81350e70af9b9b763128bcae40df4c9faa94afd71943019c954bb626095d12fcf"
+  ],
+  "encrypted": true,
+  "encryption_version": "1.0"
 }

@@ -3,13 +3,15 @@
   "upload_date": "2025-12-12 22:49:36",
   "total_pages": 8,
   "pages": [
-    "https://cdn.nuranantoscans.my.id/WearenotDating/104/Image01.webp",
-    "https://cdn.nuranantoscans.my.id/WearenotDating/104/Image02.webp",
-    "https://cdn.nuranantoscans.my.id/WearenotDating/104/Image03.webp",
-    "https://cdn.nuranantoscans.my.id/WearenotDating/104/Image04.webp",
-    "https://cdn.nuranantoscans.my.id/WearenotDating/104/Image05.webp",
-    "https://cdn.nuranantoscans.my.id/WearenotDating/104/Image06.webp",
-    "https://cdn.nuranantoscans.my.id/WearenotDating/104/Image07.webp",
-    "https://cdn.nuranantoscans.my.id/WearenotDating/104/Image08.webp"
-  ]
+    "827bf33bcca7b2cf0ca6083deef4b66e:bfc58ce85d4030ed59b8c01f14f01a180fabe324867f24802c80ee4231284107f017b0fa23539fc834ae0ed91bb2819409321109a43ac3a9ee9ca8401aff83b297251a7133edad9ec6f45f19e39f2613",
+    "0c3b012399d5eee9ddbf53b7ee34fb04:d860c73667f474e922348b581ee6e4f46cdc103ab566c99220ab2ab9a9c0dc35649f76d64c2c025a08086f0655adf3aec53946751f8c555436263e582d3ad865ef6cdf112501f47af7142a3c78c726c5",
+    "ff34f5cd851dc5103aed9046bf7df1f4:01d17302b0fc0f2598453f87ca4f4c2f5464fc83da32da8877903dd7716f241d14587586a94c8b28abb9f077f1e423dd7917e56aeaf3f2b226cedd506d5badc6e39369c081a2f962c008420e312ece8c",
+    "2c7201ad91ef034d6d8f8a412040200f:2c99cdff611af0527ae62c3b538902da5a42dd5859881e5dc2980e8273cfbcff7b32e1460b077eb45e60cb9dc222201a6e9a187200596a07012eac14511f7025ee2ded1c2811dc1fc737bf9a16a23467",
+    "3aca19345403db521cf4b0b72b7e3971:6966f51c8cbc59c54559abf6a73ecf394f30ca70526dea9099ac486dc5f1626b837d6275592c6b6b0c16d54ac601b67ee4c3f11cece62c4bcae23ec84a4a0747cb5b76d5cabce020c119c679d24514da",
+    "ff91ee3b4497634f418dbff54c6166d3:74cadf714f120728fdbf8dc1b0215b2e8ea3e8672c683d0c154c6149f77c8478ed65ab88e1d5bf09466a4d41629af3ad7d43356ea39f568cbdcbce7e5102c4bb89ac76c0536550b8e55ad5e1dabebcc3",
+    "518bf0083bcd5ddb300002825e8132c0:7ec7d5f6c41fc2f3927028210e72ed075a5c013ab674828a237bb364c70f8fb9c7f625fef5882b4c12e1842e76d6be2aa41db19a6a28286dab313d98ebc6cf64932a0c46abc55b47a25309b608209dc9",
+    "93478d7194ea5deafdcf3e988e39dc5f:17256b7687f225416951ced3214f07024155febf7a1f31206c8e603a11fd1291cc489c7dc77d01cf5ff2c99fec8805c2e36d6dfe5fc84dcbe36786d2305871e1f7df2f99af78d08ad67e3bd4c925aff2"
+  ],
+  "encrypted": true,
+  "encryption_version": "1.0"
 }
