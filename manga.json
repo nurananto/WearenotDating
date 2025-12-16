@@ -16,7 +16,7 @@
       "Office Workers"
     ],
     "status": "HIATUS",
-    "views": 50,
+    "views": 58,
     "links": {
       "mangadex": "https://mangadex.org/title/02b80fce-8fd0-46dc-a6e4-a65f701fde4a/we-are-not-dating",
       "raw": "https://comic.naver.com/webtoon/list?titleId=828670"
@@ -36,7 +36,7 @@
       "totalPages": 3,
       "pages": 3,
       "locked": false,
-      "views": 10
+      "views": 13
     },
     "2": {
       "title": "Chapter 2",
@@ -46,7 +46,7 @@
       "totalPages": 2,
       "pages": 2,
       "locked": false,
-      "views": 13
+      "views": 14
     },
     "3": {
       "title": "Chapter 3",
@@ -56,7 +56,7 @@
       "totalPages": 2,
       "pages": 2,
       "locked": false,
-      "views": 7
+      "views": 8
     },
     "4": {
       "title": "Chapter 4",
@@ -66,7 +66,7 @@
       "totalPages": 2,
       "pages": 2,
       "locked": false,
-      "views": 8
+      "views": 9
     },
     "5": {
       "title": "Chapter 5",
@@ -76,7 +76,7 @@
       "totalPages": 2,
       "pages": 2,
       "locked": false,
-      "views": 5
+      "views": 6
     },
     "6": {
       "title": "Chapter 6",
@@ -86,7 +86,7 @@
       "totalPages": 2,
       "pages": 2,
       "locked": false,
-      "views": 5
+      "views": 6
     },
     "7": {
       "title": "Chapter 7",
@@ -96,7 +96,7 @@
       "totalPages": 2,
       "pages": 2,
       "locked": false,
-      "views": 5
+      "views": 6
     },
     "8": {
       "title": "Chapter 8",
@@ -106,7 +106,7 @@
       "totalPages": 2,
       "pages": 2,
       "locked": false,
-      "views": 5
+      "views": 6
     },
     "9": {
       "title": "Chapter 9",
@@ -116,7 +116,7 @@
       "totalPages": 2,
       "pages": 2,
       "locked": false,
-      "views": 5
+      "views": 6
     },
     "10": {
       "title": "Chapter 10",
@@ -126,7 +126,7 @@
       "totalPages": 2,
       "pages": 2,
       "locked": false,
-      "views": 5
+      "views": 6
     },
     "11": {
       "title": "Chapter 11",
@@ -136,7 +136,7 @@
       "totalPages": 5,
       "pages": 5,
       "locked": false,
-      "views": 4
+      "views": 6
     },
     "12": {
       "title": "Chapter 12",
@@ -1436,7 +1436,7 @@
       "totalPages": 3,
       "pages": 3,
       "locked": false,
-      "views": 3
+      "views": 5
     },
     "142": {
       "title": "Chapter 142",
@@ -1446,9 +1446,9 @@
       "totalPages": 6,
       "pages": 6,
       "locked": false,
-      "views": 11
+      "views": 12
     }
   },
-  "lastUpdated": "2025-12-16T00:15:46+07:00",
+  "lastUpdated": "2025-12-17T00:14:41+07:00",
   "lastChapterUpdate": "2025-12-12T22:53:38+07:00"
 }
