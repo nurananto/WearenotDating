@@ -16,7 +16,7 @@
       "Office Workers"
     ],
     "status": "HIATUS",
-    "views": 64,
+    "views": 76,
     "links": {
       "mangadex": "https://mangadex.org/title/02b80fce-8fd0-46dc-a6e4-a65f701fde4a/we-are-not-dating",
       "raw": "https://comic.naver.com/webtoon/list?titleId=828670"
@@ -1336,7 +1336,7 @@
       "totalPages": 2,
       "pages": 2,
       "locked": false,
-      "views": 0
+      "views": 1
     },
     "132": {
       "title": "Chapter 132",
@@ -1446,9 +1446,9 @@
       "totalPages": 6,
       "pages": 6,
       "locked": false,
-      "views": 14
+      "views": 16
     }
   },
-  "lastUpdated": "2025-12-19T00:14:26+07:00",
+  "lastUpdated": "2025-12-20T00:10:39+07:00",
   "lastChapterUpdate": "2025-12-12T22:53:38+07:00"
 }
